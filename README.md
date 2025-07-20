@@ -36,6 +36,8 @@ which slowly converts them into continuous rotation for a miniature dynamo.
 
 ## 🖼️ Simplified Illustration
 
+![Schematic](docs/Plant-powered_Dynamo.png.png)
+
 [ Plant 🌱 ]───[ Ultra-light thread(s) ]───[ Pulley system ]───[ Dynamo ⚡ ]
 
 ## 🎯 Project Positioning
@@ -108,6 +110,8 @@ puis converties en rotation continue ultra-lente d’une dynamo miniature.
   sous peine de freiner / stopper la croissance.
 
 ## 🖼️ Illustration simplifiée
+
+![Schematic](docs/Plant-powered_Dynamo.png.png)
 
 [ Plante 🌱 ]───[ Fil(s) ultra-légers ]───[ Poulie(s) ]───[ Dynamo ⚡ ]
 
