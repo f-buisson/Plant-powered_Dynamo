@@ -1,3 +1,23 @@
+Plant-Powered Dynamo — Simplified Technical Description
+------------------------------------------------------
+
+Concept:  
+Harnessing the slow mechanical growth of a living plant to drive a miniature dynamo.  
+Each new elevation or branching of the plant is used to gently pull on ultra-lightweight threads connected to a low-friction pulley system, converting these micro-movements into ultra-slow continuous rotation.
+
+Purpose:  
+This project is primarily an educational and artistic object:  
+it illustrates the slow rhythms of nature, the real but minimal mechanical force of plants, and their relationship to solar energy (via photosynthesis).
+
+Limitations:
+- Infinitesimal energy (microwatts per plant)  
+- Entirely symbolic system: no expected energy profitability  
+- Strong biological requirements: minimal friction, no excessive mechanical stress.
+
+License:  
+Dual license: free for educational use, industrial/commercial use subject to conditions.
+
+---
 
 Plant-Powered Dynamo — Description technique simplifiée
 ------------------------------------------------------
