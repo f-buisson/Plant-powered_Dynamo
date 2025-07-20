@@ -1,3 +1,53 @@
+# 📋 TODO — Plant-Powered Dynamo 🌱⚡
+
+This document lists scientific and technical directions to further explore and develop the concept of the project.
+
+---
+
+✅ **Initial version:**
+- Complete base documentation
+- Minimal schematic illustration
+- Clean README with context, objectives, and limitations
+
+---
+
+🔬 **Future research directions:**
+
+- [ ] Accurately measure the forces exerted by different plant species during growth (bean, sunflower, ivy, bamboo, etc.).
+- [ ] Study how these forces evolve over the plant’s lifecycle: growth rate, seasonality, environmental conditions.
+- [ ] Design an ultra-low friction pulley system specifically adapted to very weak biological forces.
+- [ ] Optimize mechanical → electrical conversion: miniature dynamo adapted to ultra-slow speeds.
+
+---
+
+🌱 **Potential exploratory applications:**
+
+- [ ] Educational visualization of invisible natural forces:  
+  devices illustrating the slow accumulation of mechanical work by plants.
+
+- [ ] Integration into passive environmental monitoring:  
+  system indicating growth variations in relation to local climate conditions.
+
+- [ ] Use as a "natural clock":  
+  direct transformation of growth rate into an ultra-slow horological movement.
+
+- [ ] Development of an autonomous module for bio-inspired art installations:  
+  showcasing the link between plant growth and gentle energy conversion.
+
+---
+
+📜 **Constraints to analyze:**
+
+- Minimize mechanical stress on plants (risk of growth inhibition or damage).
+- Use lightweight, durable materials compatible with humid/outdoor environments.
+- Evaluate long-term durability over multiple growth cycles/seasons.
+
+---
+
+🎯 **Overall objective:**
+Make “Plant-Powered Dynamo” an open scientific and educational project, reproducible and concretely illustrating the limits and possibilities of biological forces applied to mechanical conversion.
+
+---
 
 # 📋 TODO — Plant-Powered Dynamo 🌱⚡
 
