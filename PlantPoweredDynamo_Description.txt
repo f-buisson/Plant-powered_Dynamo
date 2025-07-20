@@ -1,0 +1,19 @@
+
+Plant-Powered Dynamo — Description technique simplifiée
+------------------------------------------------------
+
+Concept :
+Exploiter la lente croissance mécanique d’une plante vivante pour actionner une dynamo miniature. 
+Chaque nouvelle élévation ou ramification de la plante est utilisée pour tirer très légèrement sur des fils ultralégers reliés à un système de poulies à faible friction, convertissant ces micro-mouvements en rotation continue ultra-lente.
+
+Utilité :
+Ce projet est avant tout un objet pédagogique et artistique : 
+il illustre les rythmes lents de la nature, la force mécanique réelle mais minime des plantes, et leur lien avec l’énergie solaire indirecte (via la photosynthèse).
+
+Limites :
+- Énergie infime (microwatts par plante) 
+- Système entièrement symbolique : pas de rentabilité énergétique attendue
+- Exigences biologiques fortes : friction minimale, pas de stress mécanique excessif.
+
+Licence :
+Double licence : usage pédagogique libre, usage industriel/commercial soumis à conditions.
