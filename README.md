@@ -1,4 +1,8 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
 # 🌱⚡ Plant-Powered Dynamo
+
+---
 
 ## 📖 General Description
 
@@ -14,6 +18,8 @@ The idea is simple yet poetic:
 > This project is first and foremost an **artistic and educational object**,  
 > not a real-world energy solution: the energy extracted is minimal.
 
+---
+
 ## 🔧 Operating Principle
 
 1️⃣ A lightweight thread is attached to the main stem from the beginning.  
@@ -25,6 +31,8 @@ which slowly converts them into continuous rotation for a miniature dynamo.
 
 💡 **Goal: to visualize the symbolic conversion of a slow biological phenomenon into observable mechanical energy.**
 
+---
+
 ## 🔔 Limitations
 
 - ⚠️ Extremely low energy output:  
@@ -34,11 +42,15 @@ which slowly converts them into continuous rotation for a miniature dynamo.
   The system must be designed to **apply no excessive mechanical load on plant tissues**,  
   otherwise it may hinder or stop growth.
 
+---
+
 ## 🖼️ Simplified Illustration
 
 ![Schematic](docs/Plant-powered_Dynamo.png.png)
 
 [ Plant 🌱 ]───[ Ultra-light thread(s) ]───[ Pulley system ]───[ Dynamo ⚡ ]
+
+---
 
 ## 🎯 Project Positioning
 
@@ -47,6 +59,8 @@ which slowly converts them into continuous rotation for a miniature dynamo.
   Illustrating the relationship between solar energy, photosynthesis, and mechanical work.
 
 - Conceptual, low-tech, experimental project.
+
+---
 
 ## 📜 License & Governance
 
@@ -60,10 +74,28 @@ which slowly converts them into continuous rotation for a miniature dynamo.
 
 🔔 Any commercial reproduction, industrial derivation, or adaptation in a professional context requires explicit authorization.
 
+---
+
 ## 🤝 Contributions
 
 Contributions, improvement suggestions, schematics, DIY prototypes are welcome:  
 please respect the governance framework and the original spirit of the project.
+
+---
+
+### 🫶 Support this project
+
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
+
+---
 
 ## 📢 Disclaimer
 
@@ -73,7 +105,12 @@ please respect the governance framework and the original spirit of the project.
 
 ---
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+
+
 # 🌱⚡ Plant-Powered Dynamo
+
+---
 
 ## 📖 Description générale
 
@@ -89,6 +126,8 @@ L’idée est simple mais poétique :
 > Ce projet est avant tout un **objet artistique et éducatif**,  
 > et non une solution énergétique réelle : la puissance extraite est minime.
 
+---
+
 ## 🔧 Principe de fonctionnement
 
 1️⃣ Un fil léger est attaché à la tige principale dès le début.  
@@ -100,6 +139,8 @@ puis converties en rotation continue ultra-lente d’une dynamo miniature.
 
 💡 **Objectif : visualiser la conversion symbolique d’un phénomène biologique lent en énergie mécanique observable.**
 
+---
+
 ## 🔔 Limitations
 
 - ⚠️ Énergie extrêmement faible :  
@@ -109,11 +150,15 @@ puis converties en rotation continue ultra-lente d’une dynamo miniature.
   Le système doit être conçu pour **n’exercer aucune résistance excessive sur les tissus végétaux**,  
   sous peine de freiner / stopper la croissance.
 
+---
+
 ## 🖼️ Illustration simplifiée
 
 ![Schematic](docs/Plant-powered_Dynamo.png.png)
 
 [ Plante 🌱 ]───[ Fil(s) ultra-légers ]───[ Poulie(s) ]───[ Dynamo ⚡ ]
+
+---
 
 ## 🎯 Positionnement du projet
 
@@ -122,6 +167,8 @@ puis converties en rotation continue ultra-lente d’une dynamo miniature.
   Illustrer la relation entre énergie solaire, photosynthèse et travail mécanique.
 
 - Projet conceptuel, low-tech, expérimental.
+
+---
 
 ## 📜 Licence & gouvernance
 
@@ -135,10 +182,28 @@ puis converties en rotation continue ultra-lente d’une dynamo miniature.
 
 🔔 Toute reproduction commerciale, dérivation industrielle ou adaptation dans un cadre professionnel est soumise à autorisation explicite.
 
+---
+
 ## 🤝 Contributions
 
 Contributions, propositions d’amélioration, schémas, prototypes DIY sont les bienvenus :  
 merci de respecter la gouvernance et l’esprit original du projet.
+
+---
+
+### 🫶 Soutenir ce projet
+
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
+
+---
 
 ## 📢 Disclaimer
 
